@@ -1,0 +1,66 @@
+Date : 2026-01-21 20:01:11
+Directory : c:\Users\reybe\Desktop\Mağaza
+Total : 26 files,  1629 codes, 2 comments, 87 blanks, all 1718 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |      1,261 |          0 |          2 |      1,263 |
+| PostCSS    |          3 |        127 |          0 |         28 |        155 |
+| JavaScript |          8 |        124 |          2 |         41 |        167 |
+| HTML       |         12 |        117 |          0 |         16 |        133 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                        | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                           |         26 |      1,629 |          2 |         87 |      1,718 |
+| . (Files)                                                   |          3 |      1,275 |          0 |         12 |      1,287 |
+| controllers                                                 |          3 |         58 |          0 |         10 |         68 |
+| data                                                        |          1 |          1 |          0 |          0 |          1 |
+| models                                                      |          1 |         32 |          0 |          6 |         38 |
+| public                                                      |          3 |        127 |          0 |         28 |        155 |
+| public\css                                                  |          3 |        127 |          0 |         28 |        155 |
+| routes                                                      |          2 |         17 |          2 |         14 |         33 |
+| util                                                        |          1 |          2 |          0 |          1 |          3 |
+| views                                                       |         12 |        117 |          0 |         16 |        133 |
+| views (Files)                                               |          1 |          6 |          0 |          2 |          8 |
+| views\admin                                                 |          3 |         21 |          0 |          5 |         26 |
+| views\includes                                              |          3 |         21 |          0 |          2 |         23 |
+| views\shop                                                  |          5 |         69 |          0 |          7 |         76 |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                    | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\reybe\Desktop\Mağaza\app.js                        | JavaScript |         15 |          0 |         10 |         25 |
+| c:\Users\reybe\Desktop\Mağaza\controllers\admin.js          | JavaScript |         24 |          0 |          5 |         29 |
+| c:\Users\reybe\Desktop\Mağaza\controllers\error.js          | JavaScript |          3 |          0 |          1 |          4 |
+| c:\Users\reybe\Desktop\Mağaza\controllers\shop.js           | JavaScript |         31 |          0 |          4 |         35 |
+| c:\Users\reybe\Desktop\Mağaza\data\products.json            | JSON       |          1 |          0 |          0 |          1 |
+| c:\Users\reybe\Desktop\Mağaza\models\product.js             | JavaScript |         32 |          0 |          6 |         38 |
+| c:\Users\reybe\Desktop\Mağaza\package-lock.json             | JSON       |      1,248 |          0 |          1 |      1,249 |
+| c:\Users\reybe\Desktop\Mağaza\package.json                  | JSON       |         12 |          0 |          1 |         13 |
+| c:\Users\reybe\Desktop\Mağaza\public\css\forms.css          | PostCSS    |         17 |          0 |          4 |         21 |
+| c:\Users\reybe\Desktop\Mağaza\public\css\main.css           | PostCSS    |         89 |          0 |         20 |        109 |
+| c:\Users\reybe\Desktop\Mağaza\public\css\product.css        | PostCSS    |         21 |          0 |          4 |         25 |
+| c:\Users\reybe\Desktop\Mağaza\routes\admin.js               | JavaScript |          8 |          2 |          8 |         18 |
+| c:\Users\reybe\Desktop\Mağaza\routes\shop.js                | JavaScript |          9 |          0 |          6 |         15 |
+| c:\Users\reybe\Desktop\Mağaza\util\path.js                  | JavaScript |          2 |          0 |          1 |          3 |
+| c:\Users\reybe\Desktop\Mağaza\views\404.ejs                 | HTML       |          6 |          0 |          2 |          8 |
+| c:\Users\reybe\Desktop\Mağaza\views\admin\add-product.ejs   | HTML       |         16 |          0 |          3 |         19 |
+| c:\Users\reybe\Desktop\Mağaza\views\admin\edit-product.ejs  | HTML       |          0 |          0 |          1 |          1 |
+| c:\Users\reybe\Desktop\Mağaza\views\admin\products.ejs      | HTML       |          5 |          0 |          1 |          6 |
+| c:\Users\reybe\Desktop\Mağaza\views\includes\end.ejs        | HTML       |          2 |          0 |          1 |          3 |
+| c:\Users\reybe\Desktop\Mağaza\views\includes\head.ejs       | HTML       |          8 |          0 |          1 |          9 |
+| c:\Users\reybe\Desktop\Mağaza\views\includes\navigation.ejs | HTML       |         11 |          0 |          0 |         11 |
+| c:\Users\reybe\Desktop\Mağaza\views\shop\cart.ejs           | HTML       |          5 |          0 |          1 |          6 |
+| c:\Users\reybe\Desktop\Mağaza\views\shop\checkout.ejs       | HTML       |          0 |          0 |          1 |          1 |
+| c:\Users\reybe\Desktop\Mağaza\views\shop\index.ejs          | HTML       |         32 |          0 |          2 |         34 |
+| c:\Users\reybe\Desktop\Mağaza\views\shop\product-detail.ejs | HTML       |          0 |          0 |          1 |          1 |
+| c:\Users\reybe\Desktop\Mağaza\views\shop\product-list.ejs   | HTML       |         32 |          0 |          2 |         34 |
+| Total                                                       |            |      1,629 |          2 |         87 |      1,718 |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
